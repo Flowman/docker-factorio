@@ -1,4 +1,4 @@
-[![](https://badge.imagelayers.io/flowman/factorio:latest.svg)](https://imagelayers.io/?images=carloe/flowman/factorio:latest 'Get your own badge on imagelayers.io')
+[![](https://badge.imagelayers.io/flowman/factorio:latest.svg)](https://imagelayers.io/?images=flowman/factorio:latest 'Get your own badge on imagelayers.io')
 
 # Introduction
 
