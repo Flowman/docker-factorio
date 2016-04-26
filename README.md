@@ -5,7 +5,7 @@
 Dockerfile to build a [Factorio](https://www.factorio.com) game server image. You can find the pre-built images on Docker Hub at [flowman/factorio](https://hub.docker.com/r/flowman/factorio/)
 
 ## Current Version
-0.12.30
+0.12.29
 
 I'm keeping the image up to date. If you need to use an older version, checkout out the different [tags](https://hub.docker.com/r/flowman/factorio/tags/).
 ### What's new ?
