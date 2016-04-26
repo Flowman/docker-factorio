@@ -35,3 +35,17 @@ docker run -d \
            --name factorio-server \
            flowman/factorio 
 ```
+
+# Mods
+
+Link a volume with your custom mods.
+
+```bash
+docker run -d \
+           -v $(pwd)/saves:/opt/factorio/saves \
+           -v $(pwd)/mods:/opt/factorio/mods \
+           -p 34197:34197/udp \
+           --restart=always \
+           --name factorio-server \
+           flowman/factorio 
+```
